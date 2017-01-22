@@ -34,11 +34,6 @@
 #
 #    arm_bootstrap: [_catkin, _drone_bootstrap, yaml_cpp, respawn]
 #
-# Adding Index Key-Value Pairs
-# ============================
-#
-# Just make a pull request.
-#
 ###############################################################################
 
 # reposs indexed multiply below
