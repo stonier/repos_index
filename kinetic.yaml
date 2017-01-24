@@ -42,5 +42,6 @@ catkin: [_catkin]
 ecl: 'kinetic/ecl.repos'
 ecl_tools: 'kinetic/ecl_tools.repos'
 ecl_lite: 'kinetic/ecl_lite.repos'
+trolls: 'kinetic/trolls.repos'
 yaml_cpp: 'kinetic/yaml_cpp.repos'
 
