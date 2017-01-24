@@ -26,10 +26,6 @@ repositories:
     type: git
     url: https://github.com/stonier/pax_repos_index.git
     version: devel
-  pax_rosinstall_index:
-    type: git
-    url: https://github.com/stonier/pax_rosinstall_index.git
-    version: devel
   repos_index:
     type: git
     url: https://github.com/stonier/repos_index.git
