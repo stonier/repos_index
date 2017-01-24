@@ -30,6 +30,10 @@ repositories:
     type: git
     url: https://github.com/stonier/pax_rosinstall_index.git
     version: devel
+  repos_index:
+    type: git
+    url: https://github.com/stonier/repos_index.git
+    version: devel
   vcs_extras:
     type: git
     url: https://github.com/stonier/vcs_extras.git
