@@ -19,10 +19,7 @@
 #
 # e.g. to download and compile ecl from key-value pair
 #
-#     ckx ws ~/ecl ecl
-#     cd ~/ecl
-#     ckx config .
-#     ckx build
+#     vci find ecl
 #
 # Mixins
 # ======
@@ -36,13 +33,13 @@
 #
 ###############################################################################
 
-# reposs indexed multiply below
-_catkin: 'https://raw.github.com/stonier/pax_repos_index/kinetic/catkin.repos'
+# repos indexed as helpers, use a '_' convention for sorting
+_catkin: 'kinetic/catkin.repos'
 
-# ros core
+# some examples
 catkin: [_catkin]
-ecl: 'https://raw.github.com/stonier/pax_repos_index/kinetic/ecl.repos'
-ecl_tools: 'https://raw.github.com/stonier/pax_repos_index/kinetic/ecl_tools.repos'
-ecl_lite: 'https://raw.github.com/stonier/pax_repos_index/kinetic/ecl_lite.repos'
-yaml_cpp: 'https://raw.github.com/stonier/pax_repos_index/kinetic/yaml_cpp.repos'
+ecl: 'kinetic/ecl.repos'
+ecl_tools: 'kinetic/ecl_tools.repos'
+ecl_lite: 'kinetic/ecl_lite.repos'
+yaml_cpp: 'kinetic/yaml_cpp.repos'
 
