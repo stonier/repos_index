@@ -1,0 +1,10 @@
+#
+# ECL is an open source, cross-platform set of c++ libraries (~ c++ version of posix).
+#
+repositories:
+  rocon_msgs:         { type: 'git', url: 'https://github.com/robotics-in-concert/rocon_msgs.git',         version: 'devel' }
+  rocon_tools:        { type: 'git', url: 'https://github.com/robotics-in-concert/rocon_tools.git',        version: 'devel' }
+  rocon_multimaster:  { type: 'git', url: 'https://github.com/robotics-in-concert/rocon_multimaster.git',  version: 'devel' }
+  rocon_app_platform: { type: 'git', url: 'https://github.com/robotics-in-concert/rocon_app_platform.git', version: 'devel' }
+  rocon_tutorials:    { type: 'git', url: 'https://github.com/robotics-in-concert/rocon_tutorials.git',    version: 'devel' }
+  rocon_qt_gui:       { type: 'git', url: 'https://github.com/robotics-in-concert/rocon_qt_gui.git',       version: 'devel' }
