@@ -10,6 +10,10 @@ repositories:
     type: git
     url: https://github.com/stonier/ckx_tools.git
     version: devel
+  groot_ansible:
+    type: git
+    url: https://github.com/stonier/groot_ansible.git
+    version: devel
   groot_deb_builder:
     type: git
     url: https://github.com/stonier/groot_deb_builder.git
