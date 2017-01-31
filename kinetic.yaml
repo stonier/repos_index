@@ -37,12 +37,13 @@
 _catkin: 'kinetic/catkin.repos'
 
 # some examples
-bob:       'kinetic/bob_the_builder.repos'
-catkin:     [_catkin]
-ecl:       'kinetic/ecl.repos'
+bob      : 'kinetic/bob_the_builder.repos'
+catkin   : [_catkin]
+ecl      : 'kinetic/ecl.repos'
 ecl_tools: 'kinetic/ecl_tools.repos'
-ecl_lite:  'kinetic/ecl_lite.repos'
-rocon:     'kinetic/rocon.repos'
-trolls:    'kinetic/trolls.repos'
-yaml_cpp:  'kinetic/yaml_cpp.repos'
-
+ecl_lite : 'kinetic/ecl_lite.repos'
+latex    : 'kinetic/latex.repos'
+reveal   : 'kinetic/reveal.repos'
+rocon    : 'kinetic/rocon.repos'
+trolls   : 'kinetic/trolls.repos'
+yaml_cpp : 'kinetic/yaml_cpp.repos'
