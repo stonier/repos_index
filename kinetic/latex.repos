@@ -2,6 +2,7 @@
 # Various builders, mostly including those that get built for my ppa
 #
 repositories:
-  cv     : { type: 'git', url: 'https://github.com/stonier/cv.git',     version: 'master' }
-  thesis : { type: 'git', url: 'https://github.com/stonier/thesis.git', version: 'master' }
+  correspondence : { type: 'git', url: 'https://github.com/stonier/work_correspondence.git', version: 'devel'  }
+  cv             : { type: 'git', url: 'https://github.com/stonier/cv.git',                  version: 'master' }
+  thesis         : { type: 'git', url: 'https://github.com/stonier/thesis.git',              version: 'master' }
 
