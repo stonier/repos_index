@@ -39,6 +39,7 @@ _catkin: 'kinetic/catkin.repos'
 # some examples
 bob      : 'kinetic/bob_the_builder.repos'
 catkin   : [_catkin]
+cost_map : 'kinetic/cost_map.repos'
 ecl      : 'kinetic/ecl.repos'
 ecl_tools: 'kinetic/ecl_tools.repos'
 ecl_lite : 'kinetic/ecl_lite.repos'
