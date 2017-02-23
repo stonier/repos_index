@@ -1,4 +1,4 @@
 repositories:
-  kobuki_core   :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki_core.git',    version: 'kinetic' }
-  kobuki        :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki.git',         version: 'kinetic' }
-  kobuki_destop :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki_desktop.git', version: 'kinetic' }
+  kobuki_core    :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki_core.git',    version: 'kinetic' }
+  kobuki         :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki.git',         version: 'kinetic' }
+  kobuki_desktop :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki_desktop.git', version: 'kinetic' }
