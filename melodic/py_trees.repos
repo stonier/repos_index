@@ -1,0 +1,5 @@
+repositories:
+  py_trees      : { type: 'git', url: 'https://github.com/stonier/py_trees.git',      version: 'devel' }
+  py_trees_msgs : { type: 'git', url: 'https://github.com/stonier/py_trees_msgs.git', version: 'devel' }
+  py_trees_ros  : { type: 'git', url: 'https://github.com/stonier/py_trees_ros.git',  version: 'devel' }
+  rqt_py_trees  : { type: 'git', url: 'https://github.com/stonier/rqt_py_trees.git',  version: 'devel' }

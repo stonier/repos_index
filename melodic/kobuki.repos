@@ -1,0 +1,4 @@
+repositories:
+  kobuki_core    :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki_core.git',    version: 'melodic' }
+  kobuki         :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki.git',         version: 'devel' }
+  kobuki_desktop :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki_desktop.git', version: 'devel' }

@@ -1,0 +1,6 @@
+#
+# Various builders, mostly including those that get built for my ppa
+#
+repositories:
+  presentations : { type: 'git', url: 'https://github.com/stonier/presentations.git', version: 'gh-pages' }
+
