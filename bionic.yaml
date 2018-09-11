@@ -38,11 +38,9 @@
 # catkin        : [_catkin]
 
 # devel workspaces
-devel/ansible   : 'devel/groot_ansible.repos'
-devel/bob       : 'devel/bob_the_builder.repos'
-devel/latex     : 'devel/latex.repos'
-devel/repos     : 'devel/repos_index.repos'
-devel/reveal    : 'devel/reveal.repos'
+bob       : 'devel/bob_the_builder.repos'
+latex     : 'devel/latex.repos'
+reveal    : 'devel/reveal.repos'
 
 # bionic-bouncy
 bouncy/ecl      : 'bouncy/ecl.repos'
