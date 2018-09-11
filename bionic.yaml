@@ -40,6 +40,7 @@
 # devel workspaces
 devel/bob       : 'devel/bob_the_builder.repos'
 devel/latex     : 'devel/latex.repos'
+devel/py_trees  : 'devel/py_trees.repos'
 devel/reveal    : 'devel/reveal.repos'
 
 # bionic-bouncy
