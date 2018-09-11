@@ -35,14 +35,20 @@
 
 # repos indexed as helpers, use a '_' convention for sorting
 #_catkin: 'kinetic/catkin.repos'
-
-# some examples
-bob             : 'bionic/bob_the_builder.repos'
 # catkin        : [_catkin]
-ecl-bouncy      : 'bouncy/ecl.repos'
-ecl-melodic     : 'melodic/ecl.repos'
-kobuki-melodic  : 'melodic/kobuki.repos'
-latex           : 'bionic/latex.repos'
-py_trees-bouncy : 'bouncy/py_trees.repos'
-py_trees-melodic: 'melodic/py_trees.repos'
-reveal          : 'bionic/reveal.repos'
+
+# devel workspaces
+bob             : 'devel/bob_the_builder.repos'
+groot_ansible   : 'devel/groot_ansible.repos'
+latex           : 'devel/latex.repos'
+repos           : 'devel/repos_index.repos'
+reveal          : 'devel/reveal.repos'
+
+# bionic-bouncy
+bouncy-ecl      : 'bouncy/ecl.repos'
+bouncy-py_trees : 'bouncy/py_trees.repos'
+
+# bionic-melodic
+melodic-ecl     : 'melodic/ecl.repos'
+melodic-kobuki  : 'melodic/kobuki.repos'
+melodic-py_trees: 'melodic/py_trees.repos'

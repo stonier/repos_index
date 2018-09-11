@@ -1,0 +1,6 @@
+#
+# Groot ansible
+#
+repositories:
+  repos : { type: 'git', url: 'https://github.com/stonier/groot_ansible.git', version: 'devel' }
+
