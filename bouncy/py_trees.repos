@@ -1,3 +1,4 @@
 repositories:
   py_trees      : { type: 'git', url: 'https://github.com/stonier/py_trees.git',      version: 'devel' }
-  py_trees_msgs : { type: 'git', url: 'https://github.com/stonier/py_trees_msgs.git', version: 'bouncy' }
+  py_trees_msgs : { type: 'git', url: 'https://github.com/stonier/py_trees_msgs.git', version: 'devel' }
+  unique_identifier : { type: 'git', url: 'https://github.com/stonier/unique_identifier.git', version: 'ros2' }
