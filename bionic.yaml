@@ -43,6 +43,10 @@ devel/latex     : 'devel/latex.repos'
 devel/py_trees  : 'devel/py_trees.repos'
 devel/reveal    : 'devel/reveal.repos'
 
+# bionic-crystal
+crystal/ecl      : 'crystal/ecl.repos'
+crystal/py_trees : 'crystal/py_trees.repos'
+
 # bionic-bouncy
 bouncy/ecl      : 'bouncy/ecl.repos'
 bouncy/py_trees : 'bouncy/py_trees.repos'
