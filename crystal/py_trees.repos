@@ -1,5 +1,5 @@
 repositories:
-  py_trees               : { type: 'git', url: 'https://github.com/stonier/py_trees.git',            version: 'devel'  }
-  py_trees_msgs          : { type: 'git', url: 'https://github.com/stonier/py_trees_msgs.git',       version: 'devel'  }
-  py_trees_ros           : { type: 'git', url: 'https://github.com/stonier/py_trees_ros.git',        version: 'devel'  }
-  unique_identifier_msgs : { type: 'git', url: 'https://github.com/ros2/unique_identifier_msgs.git', version: 'master' }
+  py_trees               : { type: 'git', url: 'https://github.com/splintered-reality/py_trees.git',            version: 'devel' }
+  py_trees_msgs          : { type: 'git', url: 'https://github.com/splintered-reality/py_trees_interfaces.git', version: 'devel' }
+  py_trees_ros           : { type: 'git', url: 'https://github.com/splintered-reality/py_trees_ros.git',        version: 'devel' }
+  unique_identifier_msgs : { type: 'git', url: 'https://github.com/ros2/unique_identifier.git',    version: 'master' }
