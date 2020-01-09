@@ -39,7 +39,9 @@
 
 # devel workspaces
 devel/bob       : 'devel/bob_the_builder.repos'
+devel/ecl       : 'devel/ecl.repos'
 devel/latex     : 'devel/latex.repos'
+devel/kobuki    : 'devel/kobuki.repos'
 devel/py_trees  : 'devel/py_trees.repos'
 devel/reveal    : 'devel/reveal.repos'
 
