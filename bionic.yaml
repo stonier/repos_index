@@ -45,13 +45,12 @@ devel/kobuki    : 'devel/kobuki.repos'
 devel/py_trees  : 'devel/py_trees.repos'
 devel/reveal    : 'devel/reveal.repos'
 
+# bionic-eloquent
+eloquent/py_trees : 'eloquent/py_trees.repos'
+
 # bionic-dashing
 dashing/ecl      : 'dashing/ecl.repos'
 dashing/py_trees : 'dashing/py_trees.repos'
-
-# bionic-crystal
-crystal/ecl      : 'crystal/ecl.repos'
-crystal/py_trees : 'crystal/py_trees.repos'
 
 # bionic-melodic
 melodic/ecl     : 'melodic/ecl.repos'
