@@ -5,12 +5,16 @@ repositories:
   ecl_tools:
     type: git
     url: https://github.com/stonier/ecl_tools.git
-    version: release/0.61-melodic
+    version: release/0.61-noetic
   ecl_lite:
     type: git
     url: https://github.com/stonier/ecl_lite.git
-    version: release/0.61-melodic
+    version: release/0.61-noetic
   ecl_core:
     type: git
     url: https://github.com/stonier/ecl_core.git
-    version: release/0.62-melodic
+    version: release/0.62-noetic
+  sophus:
+    type: git
+    url: https://github.com/stonier/sophus.git
+    version: release/1.1.x
