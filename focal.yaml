@@ -1,0 +1,55 @@
+###############################################################################
+# Index with various keys for ROS Kinetic
+###############################################################################
+#
+# Why
+# ===
+#
+# We have repository files everywhere...easy to forget/lose track of them.
+#
+# Quick Start
+# ===========
+#
+# At it's simplest, this is just a key to a url where a repos can be
+# found. You can then install the sources into a catkin environment.
+#
+# e.g. for the ecl key-value pair
+#
+#     ecl: 'https://raw.github.com/stonier/ecl_core/indigo/ecl.repos'
+#
+# e.g. to download and compile ecl from key-value pair
+#
+#     vci find ecl
+#
+# Mixins
+# ======
+#
+# When you use a key-value pair multiply, combine them in a list to form new workspaces.
+# Downloading and compiling works in the same way.
+#
+# e.g. arm_bootstrap:
+#
+#    arm_bootstrap: [_catkin, _drone_bootstrap, yaml_cpp, respawn]
+#
+###############################################################################
+
+# repos indexed as helpers, use a '_' convention for sorting
+#_catkin: 'kinetic/catkin.repos'
+# catkin        : [_catkin]
+
+# devel workspaces
+devel/bob       : 'devel/bob_the_builder.repos'
+devel/ecl       : 'devel/ecl.repos'
+devel/latex     : 'devel/latex.repos'
+devel/kobuki    : 'devel/kobuki.repos'
+devel/py_trees  : 'devel/py_trees.repos'
+devel/reveal    : 'devel/reveal.repos'
+
+# focal-foxy
+foxy/py_trees : 'foxy/py_trees.repos'
+foxy/ecl      : 'foxy/ecl.repos'
+
+# focal-noetic
+noetic/ecl     : 'noetic/ecl.repos'
+#noetic/kobuki  : 'noetic/kobuki.repos'
+#noetic/py_trees: 'noetic/py_trees.repos'
