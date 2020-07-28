@@ -52,4 +52,4 @@ foxy/ecl      : 'foxy/ecl.repos'
 # focal-noetic
 noetic/ecl     : 'noetic/ecl.repos'
 #noetic/kobuki  : 'noetic/kobuki.repos'
-#noetic/py_trees: 'noetic/py_trees.repos'
+noetic/py_trees: 'noetic/py_trees.repos'
