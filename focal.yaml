@@ -48,6 +48,7 @@ devel/reveal    : 'devel/reveal.repos'
 # focal-foxy
 foxy/py_trees : 'foxy/py_trees.repos'
 foxy/ecl      : 'foxy/ecl.repos'
+foxy/kobuki   : 'foxy/kobuki.repos'
 
 # focal-noetic
 noetic/ecl     : 'noetic/ecl.repos'

@@ -1,8 +1,8 @@
 #
-# Kobuki research platform.
+# Kobuki robot research platform
 #
 repositories:
-  kobuki_msgs       :     { type: 'git', url: 'https://github.com/yujinrobot/kobuki_msgs.git',    version: 'devel' }
-  kobuki_core       :     { type: 'git', url: 'https://github.com/yujinrobot/kobuki_core.git',    version: 'devel' }
-  kobuki            :     { type: 'git', url: 'https://github.com/yujinrobot/kobuki.git',         version: 'devel' }
-  kobuki_desktop    :     { type: 'git', url: 'https://github.com/yujinrobot/kobuki_desktop.git', version: 'devel' }
+  kobuki_ftdi          : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_ftdi.git',          version: 'devel' }
+  kobuki_firmware      : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_firmware.git',      version: 'devel' }
+  kobuki_documentation : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_documentation.git', version: 'devel' }
+  kobuki_core          : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_core.git',          version: 'devel' }
