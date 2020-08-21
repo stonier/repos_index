@@ -52,5 +52,5 @@ foxy/kobuki   : 'foxy/kobuki.repos'
 
 # focal-noetic
 noetic/ecl     : 'noetic/ecl.repos'
-#noetic/kobuki  : 'noetic/kobuki.repos'
+noetic/kobuki  : 'noetic/kobuki.repos'
 noetic/py_trees: 'noetic/py_trees.repos'
