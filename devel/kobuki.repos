@@ -2,8 +2,9 @@
 # Kobuki robot research platform
 #
 repositories:
-  kobuki_ftdi          : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_ftdi.git',          version: 'devel' }
-  kobuki_firmware      : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_firmware.git',      version: 'devel' }
-  kobuki_documentation : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_documentation.git', version: 'devel' }
-  kobuki_core          : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_core.git',          version: 'devel' }
-  kobuki_resources     : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_resources.git',     version: 'devel' }
+  kobuki_ftdi           : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_ftdi.git',           version: 'devel' }
+  kobuki_firmware       : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_firmware.git',       version: 'devel' }
+  kobuki_documentation  : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_documentation.git',  version: 'devel' }
+  kobuki_core           : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_core.git',           version: 'devel' }
+  kobuki_resources      : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_resources.git',      version: 'devel' }
+  kobuki_ros_interfaces : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_ros_interfaces.git', version: 'devel' }
