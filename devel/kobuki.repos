@@ -9,3 +9,4 @@ repositories:
   kobuki_resources      : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_resources.git',      version: 'devel' }
   kobuki_ros_interfaces : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_ros_interfaces.git', version: 'devel' }
   kobuki_ros            : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_ros.git',            version: 'devel' }
+  velocity_smoother     : { type: 'git', url: 'https://github.com/kobuki-base/velocity_smoother.git',     version: 'devel' }
