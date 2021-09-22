@@ -1,7 +1,7 @@
 repositories:
-#  yocs_msgs      :  { type: 'git', url: 'https://github.com/yujinrobot/yocs_msgs.git',       version: 'noetic' }
-#  yujin_ocs      :  { type: 'git', url: 'https://github.com/yujinrobot/yujin_ocs.git',       version: 'noetic' }
-  kobuki_core    :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki_core.git',     version: 'noetic' }
-#  kobuki         :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki.git',          version: 'noetic' }
-  kobuki_msgs    :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki_msgs.git',     version: 'noetic' }
-#  kobuki_desktop :  { type: 'git', url: 'https://github.com/yujinrobot/kobuki_desktop.git', version: 'noetic' }
+#  yocs_msgs      :  { type: 'git', url: 'git@github.com:yujinrobot/yocs_msgs.git',       version: 'noetic' }
+#  yujin_ocs      :  { type: 'git', url: 'git@github.com:yujinrobot/yujin_ocs.git',       version: 'noetic' }
+  kobuki_core    :  { type: 'git', url: 'git@github.com:yujinrobot/kobuki_core.git',     version: 'noetic' }
+#  kobuki         :  { type: 'git', url: 'git@github.com:yujinrobot/kobuki.git',          version: 'noetic' }
+  kobuki_msgs    :  { type: 'git', url: 'git@github.com:yujinrobot/kobuki_msgs.git',     version: 'noetic' }
+#  kobuki_desktop :  { type: 'git', url: 'git@github.com:yujinrobot/kobuki_desktop.git', version: 'noetic' }

@@ -2,12 +2,12 @@
 # Kobuki robot research platform
 #
 repositories:
-  kobuki_ftdi           : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_ftdi.git',           version: 'devel' }
-  kobuki_firmware       : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_firmware.git',       version: 'devel' }
-  kobuki_documentation  : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_documentation.git',  version: 'devel' }
-  kobuki_core           : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_core.git',           version: 'devel' }
-  kobuki_resources      : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_resources.git',      version: 'devel' }
-  kobuki_ros_interfaces : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_ros_interfaces.git', version: 'devel' }
-  kobuki_ros            : { type: 'git', url: 'https://github.com/kobuki-base/kobuki_ros.git',            version: 'devel' }
-  velocity_smoother     : { type: 'git', url: 'https://github.com/kobuki-base/velocity_smoother.git',     version: 'devel' }
-  cmd_vel_mux           : { type: 'git', url: 'https://github.com/kobuki-base/cmd_vel_mux.git',           version: 'devel' }
+  kobuki_ftdi           : { type: 'git', url: 'git@github.com:kobuki-base/kobuki_ftdi.git',           version: 'devel' }
+  kobuki_firmware       : { type: 'git', url: 'git@github.com:kobuki-base/kobuki_firmware.git',       version: 'devel' }
+  kobuki_documentation  : { type: 'git', url: 'git@github.com:kobuki-base/kobuki_documentation.git',  version: 'devel' }
+  kobuki_core           : { type: 'git', url: 'git@github.com:kobuki-base/kobuki_core.git',           version: 'devel' }
+  kobuki_resources      : { type: 'git', url: 'git@github.com:kobuki-base/kobuki_resources.git',      version: 'devel' }
+  kobuki_ros_interfaces : { type: 'git', url: 'git@github.com:kobuki-base/kobuki_ros_interfaces.git', version: 'devel' }
+  kobuki_ros            : { type: 'git', url: 'git@github.com:kobuki-base/kobuki_ros.git',            version: 'devel' }
+  velocity_smoother     : { type: 'git', url: 'git@github.com:kobuki-base/velocity_smoother.git',     version: 'devel' }
+  cmd_vel_mux           : { type: 'git', url: 'git@github.com:kobuki-base/cmd_vel_mux.git',           version: 'devel' }
