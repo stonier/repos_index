@@ -1,0 +1,7 @@
+repositories:
+  py_trees               : { type: 'git', url: 'git@github.com:splintered-reality/py_trees.git',                version: 'release/2.0.x' }
+  py_trees_ros_interfaces: { type: 'git', url: 'git@github.com:splintered-reality/py_trees_ros_interfaces.git', version: 'release/2.0.x' }
+  py_trees_ros           : { type: 'git', url: 'git@github.com:splintered-reality/py_trees_ros.git',            version: 'release/2.0.x' }
+  py_trees_ros_tutorials : { type: 'git', url: 'git@github.com:splintered-reality/py_trees_ros_tutorials.git',  version: 'release/2.0.x' }
+  py_trees_js            : { type: 'git', url: 'git@github.com:splintered-reality/py_trees_js.git',             version: 'release/0.6.x' }
+  py_trees_ros_viewer    : { type: 'git', url: 'git@github.com:splintered-reality/py_trees_ros_viewer.git',     version: 'release/0.2.x' }

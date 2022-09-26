@@ -2,7 +2,7 @@
 # ECL is an open source, cross-platform set of c++ libraries (~ c++ version of posix).
 #
 repositories:
-  sophus           : { type: 'git', url: 'git@github.com:stonier/sophus.git',    version: 'release/1.2.x' }
+  sophus           : { type: 'git', url: 'git@github.com:stonier/sophus.git',    version: 'release/1.3.x' }
   ecl_tools        : { type: 'git', url: 'git@github.com:stonier/ecl_tools.git', version: 'devel' }
   ecl_lite         : { type: 'git', url: 'git@github.com:stonier/ecl_lite.git',  version: 'devel' }
   ecl_core         : { type: 'git', url: 'git@github.com:stonier/ecl_core.git',  version: 'devel' }

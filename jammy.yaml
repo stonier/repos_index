@@ -45,17 +45,7 @@ devel/kobuki    : 'devel/kobuki.repos'
 devel/py_trees  : 'devel/py_trees.repos'
 devel/reveal    : 'devel/reveal.repos'
 
-# bionic-eloquent
-eloquent/py_trees : 'eloquent/py_trees.repos'
-
-# bionic-dashing
-dashing/ecl      : 'dashing/ecl.repos'
-dashing/py_trees : 'dashing/py_trees.repos'
-
-# bionic-melodic
-melodic/ecl     : 'melodic/ecl.repos'
-melodic/kobuki  : 'melodic/kobuki.repos'
-melodic/py_trees: 'melodic/py_trees.repos'
-
-# focal-noetic
-noetic/py_trees : 'noetic/py_trees.repos'
+# jammy-humble
+humble/py_trees : 'humble/py_trees.repos'
+humble/ecl      : 'humble/ecl.repos'
+humble/kobuki   : 'humble/kobuki.repos'

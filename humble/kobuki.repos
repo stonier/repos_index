@@ -1,0 +1,9 @@
+#
+# Kobuki robot research platform
+#
+repositories:
+  kobuki_ftdi          : { type: 'git', url: 'git@github.com:kobuki-base/kobuki_ftdi.git',          version: 'release/1.0.x' }
+  kobuki_firmware      : { type: 'git', url: 'git@github.com:kobuki-base/kobuki_firmware.git',      version: 'release/1.2.x' }
+  kobuki_documentation : { type: 'git', url: 'git@github.com:kobuki-base/kobuki_documentation.git', version: 'release/1.0.x' }
+  kobuki_core          : { type: 'git', url: 'git@github.com:kobuki-base/kobuki_core.git',          version: 'release/1.1.x' }
+  kobuki_resources     : { type: 'git', url: 'git@github.com:kobuki-base/kobuki_resources.git',     version: 'release/1.0.x' }
