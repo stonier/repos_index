@@ -46,6 +46,6 @@ devel/py_trees  : 'devel/py_trees.repos'
 devel/reveal    : 'devel/reveal.repos'
 
 # jammy-humble
-humble/py_trees : 'humble/py_trees.repos'
-humble/ecl      : 'humble/ecl.repos'
-humble/kobuki   : 'humble/kobuki.repos'
+# humble/py_trees : 'humble/py_trees.repos'
+# humble/ecl      : 'humble/ecl.repos'
+# humble/kobuki   : 'humble/kobuki.repos'
